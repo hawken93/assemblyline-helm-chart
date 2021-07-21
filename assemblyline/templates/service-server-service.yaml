@@ -7,7 +7,6 @@ metadata:
     section: core
     component: service-server
 spec:
-  clusterIP: None
   selector:
     app: assemblyline
     section: core
